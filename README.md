@@ -1,12 +1,12 @@
 # NewCppProject
 
-A new C++ project.
+A C++ program that converts a decimal number to its binary representation.
 
 ## What it does
-Prints "Hello from NewCppProject!" to the console.
+Prompts the user to enter a number, then prints its binary equivalent to the console.
 
 ## How to compile and run
 ```bash
-g++ main.cpp -o main.exe
-.\main.exe
+g++ binary_converter.cpp -o binary_converter.exe
+.\binary_converter.exe
 ```
